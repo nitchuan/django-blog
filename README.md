@@ -1,1 +1,1 @@
-## Django Web App
+## Django Web App Project
